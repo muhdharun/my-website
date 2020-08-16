@@ -41,7 +41,7 @@ export const Experiences = () => {
                                     There were several themes to choose from, but we chose the IBM's Call for Code challenge. We had to come up with a solution which would help anyone or any group in times of natural disasters.
                                 </Typography>
                                 <Typography paragraph>
-                                    Our solution made use of IBM's facial recognition API as a way to record those who were admitted into refugee camps. We made some UI Mockups of the app which would make use of this API
+                                    Our solution made use of IBM's facial recognition API as a way to record those who were admitted into refugee camps. We made some UI Mockups of the app which would make use of this API.
                                 </Typography>
                                 <Typography paragraph>
                                     The idea we had was to integrate the facial recognition API with a government database so that we would know who are already in camps.

@@ -116,7 +116,7 @@ const Projects = () => {
                             <Collapse in={expanded} timeout="auto" unmountOnExit>
                                 <CardContent>
                                 <Typography paragraph>
-                                    The bot was controlled by a Raspberry Pi 3 and the motors were controlled by an Arduino Uno board. The bot was also equipped with a LIDAR to send information on the maze back to the team
+                                    The bot was controlled by a Raspberry Pi 3 and the motors were controlled by an Arduino Uno board. The bot was also equipped with a LIDAR to send information on the maze back to the team.
                                 </Typography>
                                 <Typography paragraph>Contributions:</Typography>
                                 <Typography paragraph>Set up TCP/IP protocol (communication between controller's laptop and Raspberry Pi)</Typography>
@@ -162,7 +162,7 @@ const Projects = () => {
                                 POs would be able to read from the database after screening a civilian (known as a subject) and decide his
                                 next course of action based on the criminal status of the subject. HQPs would have the authority to
                                 conduct more thorough checks and remove people from the system if needed. This project was developed
-                                to enhance the crime handling capabilities of the Police Force
+                                to enhance the crime handling capabilities of the Police Force.
                                 </Typography>
                                 <Typography paragraph>Contributions:</Typography>
                                 <Typography paragraph>Set up Codecov to check for test coverage</Typography>
@@ -184,7 +184,7 @@ const Projects = () => {
                                 </Typography>
                                 <br></br>
                                 <Typography variant="body1" color="textSecondary" component="p">
-                                The aim of this was to find out what makes a Kickstarter project successful and predict the success of ongoing ones through Machine Learning algorithms. Our team used several including Naive Bayes,K-nearest Neighbours(KNN) and Neural Networks                               
+                                The aim of this was to find out what makes a Kickstarter project successful and predict the success of ongoing ones through Machine Learning algorithms. Our team used several including Naive Bayes,K-nearest Neighbours(KNN) and Neural Networks.                               
                                 </Typography>                               
                             </CardContent>
                             <CardActions>

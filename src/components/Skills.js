@@ -93,7 +93,7 @@ const Skills = () => {
                             Spoken/Written Languages   
                         </Typography>
                         <Typography>English</Typography>
-                        <Typography>Malay (Mother Toungue)</Typography>
+                        <Typography>Malay (Mother Tongue)</Typography>
                         <Typography>Arabic (Average proficiency)</Typography>
                         </CardContent>
                     </Card>           

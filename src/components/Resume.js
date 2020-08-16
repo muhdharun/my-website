@@ -185,7 +185,7 @@ const Resume = () => {
                         May 2019 - August 2019
                     </Typography>
                     <Typography variant="subtitle1" align="left" style={{color: "tan"}}>
-                        (More on my internship experience at this 4xLabs blog <a href="https://4xlabs.co/press/my-experience-backend-engineering-intern-4xlabs-ho-chi-minh-city.html" target="_blank">post</a>)
+                        (More on my internship experience at this 4xLabs blog <a href="https://4xlabs.co/press/my-experience-backend-engineering-intern-4xlabs-ho-chi-minh-city.html" target="_blank" rel="noopener noreferrer">post</a>)
                         <ul>
                             <li>Internship was part of NUS Overseas College (NOC) Southeast Asia Program</li>
                             <li>Worked on Biz4x, software for money changers and banks to manage foreign currency (FC) stock, transactions,

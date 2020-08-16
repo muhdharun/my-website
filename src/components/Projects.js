@@ -138,8 +138,8 @@ const Projects = () => {
                                     Software Engineering Project (Java)
                                 </Typography>
                                 <Typography>
-                                    Code contributed: [<a href="https://github.com/CS2113-AY1819S1-F10-3/main/blob/master/collated/functional/muhdharun.md" target="_blank">Functional code</a>]
-                                    [<a href="https://github.com/CS2113-AY1819S1-F10-3/main/blob/master/collated/test/muhdharun.md" target="_blank">Test code</a>]
+                                    Code contributed: [<a href="https://github.com/CS2113-AY1819S1-F10-3/main/blob/master/collated/functional/muhdharun.md" target="_blank" rel="noopener noreferrer">Functional code</a>]
+                                    [<a href="https://github.com/CS2113-AY1819S1-F10-3/main/blob/master/collated/test/muhdharun.md" target="_blank" rel="noopener noreferrer">Test code</a>]
                                 </Typography>
                                 <br></br>
                                 <Typography variant="body1" color="textSecondary" component="p">
@@ -220,7 +220,7 @@ const Projects = () => {
                                     Software Engineering Project (Unity App)
                                 </Typography>
                                 <Typography>
-                                    Get the APK file [<a href="https://www.dropbox.com/s/xjgl72u97xru61w/Cauldronappfinal.apk?dl=0" target="_blank">Here</a>]
+                                    Get the APK file [<a href="https://www.dropbox.com/s/xjgl72u97xru61w/Cauldronappfinal.apk?dl=0" target="_blank" rel="noopener noreferrer">Here</a>]
                                 </Typography>
                                 <br></br>
                                 <Typography variant="body1" color="textSecondary" component="p">

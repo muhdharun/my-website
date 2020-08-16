@@ -86,6 +86,8 @@ const Projects = () => {
     return (
         <Box component="div">
             <Navbar />
+            <br></br>
+            <br></br>
             <Grid container justify="center" alignItems="center">
                 <Grid item xs={12} sm={8} md={6}>
                     <Card>

@@ -21,9 +21,10 @@ const useStyles = makeStyles(theme=> ({
         fontFamily: "Verdana"
     },
     subtitle: {
-        color: "moccasin",
+        color: "mediumblue",
         marginBottom: "3rem",
-        fontFamily: "Verdana"
+        fontFamily: "Verdana",
+        fontWeight: "Bold" 
     },
     typedContainer: {
         position: "absolute",

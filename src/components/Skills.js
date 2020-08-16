@@ -35,6 +35,8 @@ const Skills = () => {
     return (
         <Box component="div">
             <Navbar/>
+            <br></br>
+            <br></br>
             <Typography variant="h4" align="center" className={classes.heading}>
                 Skill Sets
             </Typography>
@@ -68,7 +70,7 @@ const Skills = () => {
                             Database
                         </Typography>
                         <Typography>
-                            SQL - PostgreSQl, MySQL, Microsoft SQL
+                            SQL - PostgreSQl, MySQL, Microsoft SQL,
                             Microsoft Access
                         </Typography>
                         </CardContent>

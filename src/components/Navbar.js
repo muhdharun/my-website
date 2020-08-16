@@ -20,7 +20,7 @@ import {
     AssignmentInd,
     Home,
     Apps,
-    ContactMail,
+    EmojiEvents,
     PersonOutline,
     ListAlt
 } from "@material-ui/icons"
@@ -53,8 +53,8 @@ const menuItems = [
     },
     {
         listIcon: <AssignmentInd/>,
-        listText: "Experiences",
-        listPath: "/experiences"
+        listText: "Resume",
+        listPath: "/resume"
     },
     {
         listIcon: <Apps/>,
@@ -66,6 +66,11 @@ const menuItems = [
         listText: "Skills",
         listPath: "/skills"
     },
+    {
+        listIcon: <EmojiEvents/>,
+        listText: "Experiences",
+        listPath: "/experiences"
+    }
 ]
 
 const Navbar = () => {
@@ -99,8 +104,8 @@ const Navbar = () => {
         <>
         
         <Box component="nav">
-         <AppBar position="static" style={{background: "#222"}}>
-            <Toolbar position="fixed">
+         <AppBar position="fixed" style={{background: "#222"}}>
+            <Toolbar>
                 <IconButton onClick={toggleSlider("right", true)}>
                     <ArrowBack style={{color: "tomato"}}/> 
                 </IconButton>

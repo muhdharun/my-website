@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.0051df16.chunk.css",
+    "main.js": "/my-website/static/js/main.b82cdfc0.chunk.js",
+    "main.js.map": "/my-website/static/js/main.b82cdfc0.chunk.js.map",
+    "runtime-main.js": "/my-website/static/js/runtime-main.0cbcd75a.js",
+    "runtime-main.js.map": "/my-website/static/js/runtime-main.0cbcd75a.js.map",
+    "static/js/2.629bb1a6.chunk.js": "/my-website/static/js/2.629bb1a6.chunk.js",
+    "static/js/2.629bb1a6.chunk.js.map": "/my-website/static/js/2.629bb1a6.chunk.js.map",
+    "index.html": "/my-website/index.html",
+    "precache-manifest.835a205a2b6b5e222a90a60a17e04aa5.js": "/my-website/precache-manifest.835a205a2b6b5e222a90a60a17e04aa5.js",
+    "service-worker.js": "/my-website/service-worker.js",
+    "static/css/main.0051df16.chunk.css.map": "/my-website/static/css/main.0051df16.chunk.css.map",
+    "static/js/2.629bb1a6.chunk.js.LICENSE.txt": "/my-website/static/js/2.629bb1a6.chunk.js.LICENSE.txt",
+    "static/media/4xlabs.jpg": "/my-website/static/media/4xlabs.436b642e.jpg",
+    "static/media/cauldron.jpg": "/my-website/static/media/cauldron.2e802329.jpg",
+    "static/media/App.css": "/my-website/static/media/comBackground3.1006ddc5.jpg",
+    "static/media/ml.jpg": "/my-website/static/media/ml.a84b4df7.jpg",
+    "static/media/noc.jpg": "/my-website/static/media/noc.8324cdc8.jpg",
+    "static/media/prism.png": "/my-website/static/media/prism.80b8afc0.png",
+    "static/media/profile.png": "/my-website/static/media/profile.ced77093.png",
+    "static/media/profile2.png": "/my-website/static/media/profile2.c911854d.png",
+    "static/media/schneider.jpg": "/my-website/static/media/schneider.4a6c1fb6.jpg",
+    "static/media/vincent.jpg": "/my-website/static/media/vincent.c71eea83.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cbcd75a.js",
+    "static/js/2.629bb1a6.chunk.js",
+    "static/css/main.0051df16.chunk.css",
+    "static/js/main.b82cdfc0.chunk.js"
+  ]
+}

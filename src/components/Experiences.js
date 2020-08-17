@@ -54,9 +54,13 @@ export const Experiences = () => {
                         <CardActionArea>
                             <CardMedia component="img" alt="Citi Singapore Hackathon 2019" height="350" image={citi}/>
                             <CardContent>
+                            <Typography gutterBottom variant="body1" color="textSecondary">
+                                    Photo by: Citi Singapore Hackathon 2019 Team
+                                </Typography>
                                 <Typography gutterBottom variant="h4">
                                     Citi Singapore Hackathon 2019
                                 </Typography>
+                                
                                 <br></br>
                                 <Typography paragraph>
                                     In the recess week of Year 3 Semester 1, some friends and I joined the Citi Hackathon 2019.
